@@ -1,0 +1,16 @@
+
+nav{height: 50px;
+	width:100%;
+	background-color:lightgrey;}
+
+	ul{display: flex;
+flex-direction: row;
+justify-content:space-around;
+}
+
+li{list-style:none;
+	align-items:flex-end;}
+
+.about{
+	background-image: url(http://www.qygjxz.com/data/out/233/5164928-wallpaper-background.jpg);
+	}
